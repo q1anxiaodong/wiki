@@ -42,6 +42,7 @@ const config: Config = {
       {
         docs: {
           routeBasePath: '/',
+          path: 'docs',
           sidebarPath: './sidebars.ts',
           editUrl: 'https://github.com/q1anxiaodong/wiki/tree/main/',
         },
